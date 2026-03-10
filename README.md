@@ -24,7 +24,9 @@ It integrates **GitHub, Maven, SonarQube, Docker, AWS ECR, and AWS ECS** to deli
 - **Docker** – Containerization  
 - **AWS ECR/ECS** – Cloud image registry & deployment  
 
----
+## 📂 Project Files
+- [Dockerfile](./Dockerfile)  
+- [Jenkinsfile](./Jenkinsfile)  
 
 ## 📌 Visual Flow
 GitHub → Jenkins → SonarQube → Docker → AWS ECR → AWS ECS  
@@ -41,6 +43,4 @@ It reflects my passion for building recruiter‑visible DevOps workflows that co
 
 ## 🔖 Keywords
 #DevOps #CICD #Jenkins #AWS #Docker #SonarQube #CloudComputing #Automation #SoftwareEngineering #TechProjects
-- [Dockerfile](https://github.com/imourada/vprofile-CI-CD-ECS-Cluster-full-Project/blob/main/Dockerfile)
-- [Jenkinsfile](https://github.com/imourada/vprofile-CI-CD-ECS-Cluster-full-Project/blob/main/Jenkinsfile)
-
+ 
